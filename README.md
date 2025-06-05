@@ -1,6 +1,6 @@
 # Caio Maitan - 837704
-# João Vitor Bernardes - 
-# Lorenzo Janota -
+# João Vitor Bernardes - 837901
+# Lorenzo Janota - 838633
 
 # Sistema de Pedidos Online - Java
 
